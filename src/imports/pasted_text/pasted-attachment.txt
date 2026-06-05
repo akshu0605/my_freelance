@@ -1,0 +1,368 @@
+# Portfolio Website Design Prompt for Figma AI
+
+Create a modern, premium, conversion-focused portfolio website for a two-person design and development studio called "Akshit & Aditi Studio".
+
+The website should NOT look like a generic agency website. It should feel like a high-end creative studio that designs and develops websites for startups, cafes, restaurants, local businesses, and growing brands.
+
+## Design Direction
+
+Use the attached reference layout as inspiration ONLY for:
+
+* Section spacing
+* Visual hierarchy
+* Card layouts
+* Alternating content blocks
+* Testimonial placement
+* Project showcase flow
+
+Do NOT copy the cleaning service design.
+
+The final design should feel like a blend of:
+
+* Modern startup agency
+* Premium café branding
+* Creative portfolio showcase
+* Apple-level simplicity
+* Framer-style modern layouts
+
+---
+
+## Brand Positioning
+
+Headline:
+
+"We Design Websites That Turn Visitors Into Customers."
+
+Subheadline:
+
+"We're Akshit & Aditi — a design and development team helping startups and businesses create websites that look beautiful, communicate clearly, and drive growth."
+
+CTA Buttons:
+
+* View Our Work
+* Book a Discovery Call
+
+---
+
+## Color Palette
+
+Use the color inspiration from these websites:
+
+Farzi Cafe
+https://www.farzicafe.com/
+
+AMA Cafe
+https://amacafe.co/pages/our-story
+
+Warehouse Cafe
+https://www.warehousecafe.in/
+
+Primary Colors:
+
+* Deep Coffee Brown (#2B1D16)
+* Dark Charcoal (#1A1A1A)
+* Warm Cream (#F5F0E8)
+* Soft Beige (#DCC8B0)
+* Rich Gold Accent (#C79A63)
+
+Secondary Colors:
+
+* Off White (#FAF8F5)
+* Warm Gray (#8D857D)
+
+Design Mood:
+
+* Sophisticated
+* Warm
+* Premium
+* Minimal
+* Modern
+
+Avoid bright blues and generic startup colors.
+
+---
+
+## Typography
+
+Headings:
+
+* Playfair Display
+  OR
+* Cormorant Garamond
+
+Body Text:
+
+* Inter
+  OR
+* Manrope
+
+Use strong typography hierarchy.
+
+Large hero headlines.
+
+Plenty of whitespace.
+
+---
+
+## Section 1 – Hero
+
+Large split-screen hero section.
+
+Left Side:
+
+Headline:
+"We Build Websites People Remember."
+
+Subheadline explaining the studio.
+
+Two CTA buttons.
+
+Trust indicators:
+
+* Startup Friendly
+* Mobile Optimized
+* Conversion Focused
+
+Right Side:
+
+Mockups of websites floating in layered cards.
+
+Display laptop, tablet, and mobile previews.
+
+Premium glassmorphism effects.
+
+---
+
+## Section 2 – Why Businesses Choose Us
+
+6 cards in a grid.
+
+Cards:
+
+* Custom Design
+* Fast Development
+* Mobile Responsive
+* SEO Ready
+* Conversion Focused
+* Ongoing Support
+
+Minimal icons.
+
+Rounded cards.
+
+Soft shadows.
+
+---
+
+## Section 3 – Our Process
+
+4-step timeline.
+
+Discover
+→ Strategy
+→ Design
+→ Launch
+
+Modern horizontal flow.
+
+Animated connectors.
+
+Clean visuals.
+
+---
+
+## Section 4 – Featured Case Study
+
+Large showcase section.
+
+Display one featured project.
+
+Include:
+
+* Client Industry
+* Challenge
+* Solution
+* Result
+
+Large device mockups.
+
+Metrics cards:
+
++40% Engagement
++25% Conversion
++60% Mobile Traffic
+
+---
+
+## Section 5 – Selected Projects
+
+IMPORTANT SECTION
+
+Create a project showcase grid designed to hold 5 websites.
+
+Each project card should contain:
+
+* Large website preview
+* Business name
+* Industry
+* Short description
+* Visit Website button
+* Case Study button
+
+Layout:
+
+5 premium project cards.
+
+Card 1:
+Farzi Cafe Inspired Project
+
+Card 2:
+AMA Cafe Inspired Project
+
+Card 3:
+Warehouse Cafe Inspired Project
+
+Card 4:
+Business Website
+
+Card 5:
+Startup Landing Page
+
+The layout should be flexible because additional website links will be added later.
+
+Hover effects should reveal more information.
+
+---
+
+## Section 6 – Testimonials
+
+Display client reviews.
+
+Large quote card.
+
+Circular client images.
+
+Rating stars.
+
+Clean modern design.
+
+---
+
+## Section 7 – Studio Statistics
+
+Animated metrics section.
+
+Examples:
+
+15+
+Projects Completed
+
+10+
+Businesses Served
+
+95%
+Client Satisfaction
+
+100%
+Custom Built
+
+Use premium dark background.
+
+---
+
+## Section 8 – Services
+
+Display services in elegant cards.
+
+Services:
+
+* Website Design
+* Landing Pages
+* UI/UX Design
+* Business Websites
+* Startup Websites
+* Website Redesigns
+
+Use hover interactions.
+
+---
+
+## Section 9 – About Akshit & Aditi
+
+Split layout.
+
+Professional photos or illustrations.
+
+Short introduction.
+
+Akshit:
+Web Development & Strategy
+
+Aditi:
+UI/UX Design & Visual Direction
+
+Display skills and tools.
+
+---
+
+## Section 10 – Contact Section
+
+Strong conversion section.
+
+Headline:
+
+"Let's Build Something Great Together."
+
+Fields:
+
+* Name
+* Email
+* Business Name
+* Project Details
+
+CTA:
+
+"Get a Free Website Audit"
+
+Include Calendly-style booking option.
+
+---
+
+## Footer
+
+Minimal premium footer.
+
+Links:
+
+* Home
+* Work
+* Services
+* About
+* Contact
+
+Socials:
+
+* LinkedIn
+* Behance
+* Dribbble
+* Instagram
+
+Copyright:
+
+© Akshit & Aditi Studio
+
+---
+
+## Visual Style Requirements
+
+* Premium whitespace
+* Smooth gradients
+* Subtle shadows
+* Rounded corners (16–24px)
+* Modern animations
+* Framer-inspired layouts
+* Luxury café-inspired colors
+* Editorial typography
+* High-end agency feel
+
+The website should feel worth ₹50,000+ in design value and instantly communicate professionalism, trust, and design expertise.
