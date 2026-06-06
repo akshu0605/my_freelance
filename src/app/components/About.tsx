@@ -30,7 +30,7 @@ export function About() {
           </p>
         </motion.div>
 
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 32 }}>
+        <div className="about-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 32 }}>
           {[
             {
               name: "Akshit",
@@ -116,7 +116,14 @@ export function About() {
         </div>
       </div>
 
-      <style>{`@media(max-width:768px){.about-grid{grid-template-columns:1fr!important;}}`}</style>
+      <style>{`
+        @media(max-width:768px){
+          #about { padding: 60px 16px !important; }
+          .about-grid { grid-template-columns: 1fr !important; gap: 24px !important; }
+          .about-grid > div > div:first-child { padding: 32px 24px 24px !important; }
+          .about-grid > div > div:last-child { padding: 24px !important; }
+        }
+      `}</style>
     </section>
   );
 }
