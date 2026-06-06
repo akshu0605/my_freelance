@@ -30,7 +30,7 @@ export function About() {
           </p>
         </motion.div>
 
-        <div className="about-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 32 }}>
+        <div className="about-grid" style={{ display: "grid", gap: 32 }}>
           {[
             {
               name: "Akshit",
@@ -65,6 +65,7 @@ export function About() {
             >
               {/* Header band */}
               <div
+                className="about-card-header"
                 style={{
                   background: i === 0 ? "linear-gradient(135deg, #2B1D16, #4A2E1A)" : "linear-gradient(135deg, #C79A63, #DCC8B0)",
                   padding: "48px 40px 36px",
@@ -98,7 +99,7 @@ export function About() {
               </div>
 
               {/* Body */}
-              <div style={{ padding: "32px 40px" }}>
+              <div className="about-card-body" style={{ padding: "32px 40px" }}>
                 <p style={{ fontSize: 15, color: "#8D857D", lineHeight: 1.75, marginBottom: 28 }}>{person.desc}</p>
                 <div>
                   <div style={{ fontSize: 11, color: "#C79A63", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 14 }}>Skills & Tools</div>
@@ -117,11 +118,12 @@ export function About() {
       </div>
 
       <style>{`
+        .about-grid { grid-template-columns: 1fr 1fr; }
         @media(max-width:768px){
           #about { padding: 60px 16px !important; }
           .about-grid { grid-template-columns: 1fr !important; gap: 24px !important; }
-          .about-grid > div > div:first-child { padding: 32px 24px 24px !important; }
-          .about-grid > div > div:last-child { padding: 24px !important; }
+          .about-card-header { padding: 32px 24px 24px !important; }
+          .about-card-body { padding: 24px !important; }
         }
       `}</style>
     </section>
